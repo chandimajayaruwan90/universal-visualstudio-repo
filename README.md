@@ -22,7 +22,7 @@ This solution follows the microservices architecture pattern using ASP.NET Core 
 
 📅 1. Clone the Repository
 
-git clone https://github.com/your-org/microservices-solution.git
+git clone https://github.com/chandimajayaruwan90/universal-visualstudio-repo
 cd microservices-solution
 
 🖠️ 2. Open in Visual Studio
